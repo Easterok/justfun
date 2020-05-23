@@ -327,7 +327,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6489acb570485fb48a666d3f8752987f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  brokenObject: {fileID: 7217981980625736580, guid: ea62c317009dd894f99023be09f5d5f3,
+  brokenObject: {fileID: 6187369950254969551, guid: 40f77d863d7215b49afc76ab12df44b3,
     type: 3}
   magnitudeCol: 12
 --- !u!1 &1187079122

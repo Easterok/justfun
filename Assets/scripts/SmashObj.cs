@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class glass : MonoBehaviour
+public class SmashObj : MonoBehaviour
 {
     public Transform brokenObject;
     public float magnitudeCol;
